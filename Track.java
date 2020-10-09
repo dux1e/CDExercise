@@ -21,7 +21,7 @@ public class Track {
         return title;
     }
     
-    public int getPlayingTime() {
+    public int getPlayTime() {
         return playingTime;
     }
     
